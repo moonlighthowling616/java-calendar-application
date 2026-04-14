@@ -1,2 +1,2 @@
-# **IT 103 Finals Project**
+# **IT 103 Final Project**
 
